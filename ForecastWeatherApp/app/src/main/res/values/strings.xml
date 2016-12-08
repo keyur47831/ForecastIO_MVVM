@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ForecastWeatherApp</string>
+    <string name="action_hourly">Hourly Weather</string>
+    <string name="action_daily">Daily Weather</string>
+    <string name="daily_title">Daily Weather Forecast</string>
+    <string name="hourly_title">Hourly Weather Forecast</string>
+    <string name="failed_fetching_gps_info">Failed fetching GPS info!!</string>
+    <string name="loading">Loading data...</string>
+    <string name="finetext">Navigate menu for more information!!!</string>
+    <string name="err_data_unavilable">Data not available, try again!!!</string>
+    <string name="location_sydney">Fetching data for Default Location : Sydeny</string>
+</resources>
